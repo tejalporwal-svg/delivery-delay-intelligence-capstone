@@ -1,0 +1,2 @@
+selector_k,n_estimators,max_depth,min_samples_leaf,threshold,chosen_from
+7,150,6,1,0.4,randomized_search
